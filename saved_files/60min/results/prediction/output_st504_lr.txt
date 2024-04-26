@@ -1,0 +1,18 @@
+ STATION 504 - return
+---------------
+
+| TRAIN |  RMSE: 5.73, MAE: 4.00, R^2: 0.43
+
+| VALIDATION |  RMSE: 7.09, MAE: 4.70, R^2: 0.44
+
+| TEST |  RMSE: 5.67, MAE: 4.07, R^2: 0.21
+
+ STATION 504 - pickup
+---------------
+
+| TRAIN |  RMSE: 5.66, MAE: 4.06, R^2: 0.28
+
+| VALIDATION |  RMSE: 8.29, MAE: 5.23, R^2: 0.19
+
+| TEST |  RMSE: 5.74, MAE: 4.12, R^2: 0.20
+

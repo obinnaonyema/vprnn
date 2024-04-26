@@ -1,0 +1,18 @@
+ STATION 405 - return
+---------------
+
+| TRAIN |  RMSE: 6.69, MAE: 4.55, R^2: 0.37
+
+| VALIDATION |  RMSE: 6.78, MAE: 4.44, R^2: 0.45
+
+| TEST |  RMSE: 5.66, MAE: 4.19, R^2: -0.13
+
+ STATION 405 - pickup
+---------------
+
+| TRAIN |  RMSE: 6.42, MAE: 4.52, R^2: 0.36
+
+| VALIDATION |  RMSE: 6.41, MAE: 4.29, R^2: 0.46
+
+| TEST |  RMSE: 5.28, MAE: 3.96, R^2: -0.12
+

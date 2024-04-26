@@ -1,0 +1,18 @@
+ STATION 358 - return
+---------------
+
+| TRAIN |  RMSE: 8.02, MAE: 5.45, R^2: 0.41
+
+| VALIDATION |  RMSE: 8.16, MAE: 5.26, R^2: 0.49
+
+| TEST |  RMSE: 7.56, MAE: 5.33, R^2: -0.12
+
+ STATION 358 - pickup
+---------------
+
+| TRAIN |  RMSE: 7.98, MAE: 5.57, R^2: 0.34
+
+| VALIDATION |  RMSE: 8.40, MAE: 5.54, R^2: 0.38
+
+| TEST |  RMSE: 7.16, MAE: 5.36, R^2: -0.09
+

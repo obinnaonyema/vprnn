@@ -1,0 +1,18 @@
+ STATION 519 - return
+---------------
+
+| TRAIN |  RMSE: 19.77, MAE: 12.54, R^2: 0.36
+
+| VALIDATION |  RMSE: 21.58, MAE: 13.13, R^2: 0.41
+
+| TEST |  RMSE: 17.46, MAE: 11.39, R^2: 0.04
+
+ STATION 519 - pickup
+---------------
+
+| TRAIN |  RMSE: 22.04, MAE: 13.33, R^2: 0.32
+
+| VALIDATION |  RMSE: 25.37, MAE: 14.48, R^2: 0.34
+
+| TEST |  RMSE: 18.73, MAE: 11.89, R^2: -0.02
+

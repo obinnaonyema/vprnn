@@ -1,0 +1,18 @@
+ STATION 499 - return
+---------------
+
+| TRAIN |  RMSE: 7.92, MAE: 5.46, R^2: 0.43
+
+| VALIDATION |  RMSE: 7.87, MAE: 5.30, R^2: 0.53
+
+| TEST |  RMSE: 7.18, MAE: 5.00, R^2: 0.38
+
+ STATION 499 - pickup
+---------------
+
+| TRAIN |  RMSE: 8.06, MAE: 5.54, R^2: 0.44
+
+| VALIDATION |  RMSE: 8.50, MAE: 5.76, R^2: 0.49
+
+| TEST |  RMSE: 7.32, MAE: 5.13, R^2: 0.37
+

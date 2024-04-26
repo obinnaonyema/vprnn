@@ -1,0 +1,18 @@
+ STATION 3711 - return
+---------------
+
+| TRAIN |  RMSE: 5.23, MAE: 3.37, R^2: 0.38
+
+| VALIDATION |  RMSE: 6.70, MAE: 4.15, R^2: 0.39
+
+| TEST |  RMSE: 5.99, MAE: 3.89, R^2: 0.32
+
+ STATION 3711 - pickup
+---------------
+
+| TRAIN |  RMSE: 5.90, MAE: 3.91, R^2: 0.25
+
+| VALIDATION |  RMSE: 6.39, MAE: 4.39, R^2: 0.06
+
+| TEST |  RMSE: 6.26, MAE: 4.14, R^2: 0.15
+

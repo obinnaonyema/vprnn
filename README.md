@@ -1,5 +1,5 @@
-# Variational Poisson Recurrent Neural Network
-Official implementation of [Predictive and Prescriptive Performance of Bike-Sharing Demand Forecasts for Inventory Management](https://arxiv.org/abs/2108.00858)
+# Predictive and Prescriptive Performance of Bike-Sharing Demand Forecasts for Inventory Management
+Replication study of [Predictive and Prescriptive Performance of Bike-Sharing Demand Forecasts for Inventory Management](https://arxiv.org/abs/2108.00858)
 
 <img align="center" src="images/github-img.JPG" width="900"/></td> <br/>
 
@@ -62,13 +62,6 @@ python run_vprnn.py --stations 426 229 --no-train 1 --no-predict 1 --benchmark
 
 Note that the inventory decision model needs to read pre-trained demand predictions stored in `saved_files/{15,30,60}min/predicted_demand/`. Make sure there are predicted demand vectors stored in this directory.
 
-During execution, this will store the following:
-* Inventory decision in `saved_files/{15,30,60}min/inventory_decisions/`
-* Optimization performance in `saved_files/{15,30,60}min/results/optimization`
-
-
-## Credits
-This work was conducted as a joint effort with [Yihua Wang*](https://www.professors.wi.tum.de/en/log/team/yihua-wang-msc/), [Dennis Prak*](https://people.utwente.nl/d.r.j.prak), [Filipe Rodrigues'](http://fprodrigues.com/), [Stefan Minner*](https://www.professors.wi.tum.de/log/team/minner/) and [Francisco C. Pereira'](http://camara.scripts.mit.edu/home/), at Technical University of Denmark' and Technical University of Munich*. 
 
 ## Reference
 ```
@@ -80,6 +73,5 @@ This work was conducted as a joint effort with [Yihua Wang*](https://www.profess
 }
 ```
 
-----------
-In case of any questions, bugs, suggestions or improvements, please feel free to contact me at daga@dtu.dk.
+
 

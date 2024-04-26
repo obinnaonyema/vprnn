@@ -110,6 +110,8 @@ def get_results(model, X, y, results_path="saved_files", model_type="mo_rnn", la
     test_idx = np.arange(int(len(y)-(61*24*multiplier)), len(y))
     y_train, y_valid, y_test = y[train_idx].numpy(), y[valid_idx].numpy(), y[test_idx].numpy()
     with open(results_path + f"/results/prediction/" + f"output_st{station}_{model_type}.txt", write_mode) as text_file:
+        print('opened file')
+        print(results_path + f"/results/prediction/" + f"output_st{station}_{model_type}.txt")
         for i, label in enumerate(labels):
             if model_type in ['so_rnn', 'mo_rnn', 'mo_rnn_fullcovar', 'mo_rnn_diff']: 
                 log_lambda_loc, log_lambda_scale = model.guide(X, y, forecast=True)
@@ -130,7 +132,7 @@ def get_results(model, X, y, results_path="saved_files", model_type="mo_rnn", la
                 rmse, mae, r2 = get_performance_metrics(y_test[:, i], lambda_loc[test_idx-1])
                 print(f"| TEST |  RMSE: {rmse:.2f}, MAE: {mae:.2f}, R^2: {r2:.2f}\n", file=text_file)
             elif model_type=='lr': 
-                y_pred = model(X).detach().numpy()
+                y_pred = model.predict(X)#.detach().numpy()
                 y_pred[y_pred <= 0.] = torch.zeros((1,))
                 np.save(results_path + "/predicted_demand/" + f"{model_type}_{station}_{label}_mean.npy", y_pred)
                 rmse, mae, r2 = get_performance_metrics(y_train[1:, i], y_pred[:len(y_train)-1])

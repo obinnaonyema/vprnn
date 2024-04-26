@@ -1,0 +1,18 @@
+ STATION 387 - return
+---------------
+
+| TRAIN |  RMSE: 7.93, MAE: 5.44, R^2: 0.35
+
+| VALIDATION |  RMSE: 7.36, MAE: 5.18, R^2: 0.48
+
+| TEST |  RMSE: 6.73, MAE: 5.17, R^2: -0.28
+
+ STATION 387 - pickup
+---------------
+
+| TRAIN |  RMSE: 7.85, MAE: 5.21, R^2: 0.40
+
+| VALIDATION |  RMSE: 7.51, MAE: 5.13, R^2: 0.50
+
+| TEST |  RMSE: 6.66, MAE: 4.88, R^2: -0.41
+

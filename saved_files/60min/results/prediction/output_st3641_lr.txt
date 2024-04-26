@@ -1,0 +1,18 @@
+ STATION 3641 - return
+---------------
+
+| TRAIN |  RMSE: 7.57, MAE: 5.06, R^2: 0.38
+
+| VALIDATION |  RMSE: 9.25, MAE: 5.94, R^2: 0.41
+
+| TEST |  RMSE: 7.46, MAE: 4.97, R^2: 0.29
+
+ STATION 3641 - pickup
+---------------
+
+| TRAIN |  RMSE: 7.66, MAE: 4.99, R^2: 0.47
+
+| VALIDATION |  RMSE: 8.51, MAE: 5.88, R^2: 0.48
+
+| TEST |  RMSE: 6.98, MAE: 4.63, R^2: 0.41
+

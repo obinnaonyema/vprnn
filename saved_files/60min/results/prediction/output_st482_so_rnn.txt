@@ -1,0 +1,18 @@
+ STATION 482 - return
+---------------
+
+| TRAIN |  RMSE: 9.73, MAE: 6.37, R^2: -0.47
+
+| VALIDATION |  RMSE: 9.87, MAE: 7.20, R^2: -0.76
+
+| TEST |  RMSE: 5.59, MAE: 3.76, R^2: -0.31
+
+ STATION 482 - pickup
+---------------
+
+| TRAIN |  RMSE: 9.63, MAE: 6.14, R^2: -0.39
+
+| VALIDATION |  RMSE: 9.75, MAE: 6.98, R^2: -0.65
+
+| TEST |  RMSE: 5.37, MAE: 3.58, R^2: -0.26
+

@@ -1,0 +1,18 @@
+ STATION 327 - return
+---------------
+
+| TRAIN |  RMSE: 7.94, MAE: 5.33, R^2: 0.32
+
+| VALIDATION |  RMSE: 9.09, MAE: 5.82, R^2: 0.37
+
+| TEST |  RMSE: 7.05, MAE: 5.07, R^2: -0.12
+
+ STATION 327 - pickup
+---------------
+
+| TRAIN |  RMSE: 8.34, MAE: 5.29, R^2: 0.32
+
+| VALIDATION |  RMSE: 9.65, MAE: 5.78, R^2: 0.37
+
+| TEST |  RMSE: 7.35, MAE: 5.07, R^2: -0.30
+

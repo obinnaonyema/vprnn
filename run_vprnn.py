@@ -21,7 +21,7 @@ from pyro.infer import SVI, Trace_ELBO, Predictive
 from src.algos.vprnn import VPRNN
 import src.algos.inventory_decision_hourly as idh
 import src.algos.inventory_decision_quarterly as idq
-from src.misc.utils import get_performance_metrics, Trace_ELBO_Wrapper, read_and_preprocess_data, get_results, get_inventory_decision_evaluation_results
+from src.misc.utils import get_performance_metrics, Trace_ELBO_Wrapper, read_and_preprocess_data, get_results
 
 
 parser = argparse.ArgumentParser(description='Full pipeline example')

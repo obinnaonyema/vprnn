@@ -1,0 +1,18 @@
+ STATION 491 - return
+---------------
+
+| TRAIN |  RMSE: 8.53, MAE: 4.78, R^2: 0.29
+
+| VALIDATION |  RMSE: 10.87, MAE: 6.25, R^2: 0.38
+
+| TEST |  RMSE: 7.45, MAE: 4.77, R^2: 0.31
+
+ STATION 491 - pickup
+---------------
+
+| TRAIN |  RMSE: 9.92, MAE: 5.01, R^2: 0.22
+
+| VALIDATION |  RMSE: 12.16, MAE: 6.70, R^2: 0.28
+
+| TEST |  RMSE: 7.83, MAE: 4.71, R^2: 0.28
+

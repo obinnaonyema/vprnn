@@ -1,0 +1,18 @@
+ STATION 402 - return
+---------------
+
+| TRAIN |  RMSE: 13.18, MAE: 7.73, R^2: 0.36
+
+| VALIDATION |  RMSE: 13.65, MAE: 7.97, R^2: 0.45
+
+| TEST |  RMSE: 13.19, MAE: 7.81, R^2: 0.26
+
+ STATION 402 - pickup
+---------------
+
+| TRAIN |  RMSE: 15.59, MAE: 8.25, R^2: 0.31
+
+| VALIDATION |  RMSE: 19.49, MAE: 10.13, R^2: 0.26
+
+| TEST |  RMSE: 12.68, MAE: 7.16, R^2: -0.03
+

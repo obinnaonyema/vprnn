@@ -1,0 +1,18 @@
+ STATION 3263 - return
+---------------
+
+| TRAIN |  RMSE: 6.41, MAE: 4.63, R^2: 0.38
+
+| VALIDATION |  RMSE: 7.09, MAE: 4.94, R^2: 0.40
+
+| TEST |  RMSE: 6.31, MAE: 4.60, R^2: 0.22
+
+ STATION 3263 - pickup
+---------------
+
+| TRAIN |  RMSE: 7.11, MAE: 4.75, R^2: 0.32
+
+| VALIDATION |  RMSE: 8.66, MAE: 5.43, R^2: 0.29
+
+| TEST |  RMSE: 6.25, MAE: 4.43, R^2: 0.20
+

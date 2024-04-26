@@ -1,0 +1,18 @@
+ STATION 285 - return
+---------------
+
+| TRAIN |  RMSE: 7.20, MAE: 5.20, R^2: 0.45
+
+| VALIDATION |  RMSE: 7.22, MAE: 5.09, R^2: 0.52
+
+| TEST |  RMSE: 6.80, MAE: 4.98, R^2: 0.31
+
+ STATION 285 - pickup
+---------------
+
+| TRAIN |  RMSE: 7.43, MAE: 5.18, R^2: 0.48
+
+| VALIDATION |  RMSE: 8.10, MAE: 5.44, R^2: 0.47
+
+| TEST |  RMSE: 6.67, MAE: 4.88, R^2: 0.36
+

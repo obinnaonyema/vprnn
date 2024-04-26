@@ -1,0 +1,18 @@
+ STATION 514 - return
+---------------
+
+| TRAIN |  RMSE: 12.02, MAE: 7.58, R^2: 0.33
+
+| VALIDATION |  RMSE: 12.89, MAE: 7.58, R^2: 0.45
+
+| TEST |  RMSE: 10.72, MAE: 7.19, R^2: -0.74
+
+ STATION 514 - pickup
+---------------
+
+| TRAIN |  RMSE: 12.33, MAE: 7.89, R^2: 0.23
+
+| VALIDATION |  RMSE: 14.00, MAE: 8.02, R^2: 0.29
+
+| TEST |  RMSE: 10.10, MAE: 7.31, R^2: -0.57
+

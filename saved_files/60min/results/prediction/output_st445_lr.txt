@@ -1,0 +1,18 @@
+ STATION 445 - return
+---------------
+
+| TRAIN |  RMSE: 9.18, MAE: 5.59, R^2: 0.36
+
+| VALIDATION |  RMSE: 10.84, MAE: 6.61, R^2: 0.42
+
+| TEST |  RMSE: 7.91, MAE: 5.04, R^2: 0.29
+
+ STATION 445 - pickup
+---------------
+
+| TRAIN |  RMSE: 7.92, MAE: 4.78, R^2: 0.17
+
+| VALIDATION |  RMSE: 14.34, MAE: 7.31, R^2: 0.15
+
+| TEST |  RMSE: 9.21, MAE: 4.90, R^2: 0.25
+

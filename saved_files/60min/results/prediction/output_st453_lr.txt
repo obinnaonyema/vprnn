@@ -1,0 +1,18 @@
+ STATION 453 - return
+---------------
+
+| TRAIN |  RMSE: 5.75, MAE: 4.04, R^2: 0.43
+
+| VALIDATION |  RMSE: 4.80, MAE: 3.39, R^2: 0.60
+
+| TEST |  RMSE: 5.21, MAE: 3.76, R^2: 0.01
+
+ STATION 453 - pickup
+---------------
+
+| TRAIN |  RMSE: 6.27, MAE: 4.42, R^2: 0.28
+
+| VALIDATION |  RMSE: 5.50, MAE: 3.76, R^2: 0.44
+
+| TEST |  RMSE: 5.27, MAE: 3.95, R^2: -0.23
+

@@ -1,0 +1,18 @@
+ STATION 229 - return
+---------------
+
+| TRAIN |  RMSE: 6.44, MAE: 4.64, R^2: 0.47
+
+| VALIDATION |  RMSE: 7.90, MAE: 5.48, R^2: 0.48
+
+| TEST |  RMSE: 6.12, MAE: 4.50, R^2: 0.24
+
+ STATION 229 - pickup
+---------------
+
+| TRAIN |  RMSE: 6.79, MAE: 4.75, R^2: 0.45
+
+| VALIDATION |  RMSE: 8.12, MAE: 5.49, R^2: 0.45
+
+| TEST |  RMSE: 6.10, MAE: 4.40, R^2: 0.20
+

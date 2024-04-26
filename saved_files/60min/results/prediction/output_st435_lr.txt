@@ -1,0 +1,18 @@
+ STATION 435 - return
+---------------
+
+| TRAIN |  RMSE: 9.19, MAE: 6.26, R^2: 0.45
+
+| VALIDATION |  RMSE: 9.47, MAE: 6.59, R^2: 0.53
+
+| TEST |  RMSE: 9.23, MAE: 6.21, R^2: 0.28
+
+ STATION 435 - pickup
+---------------
+
+| TRAIN |  RMSE: 8.94, MAE: 6.07, R^2: 0.50
+
+| VALIDATION |  RMSE: 9.96, MAE: 6.91, R^2: 0.51
+
+| TEST |  RMSE: 8.45, MAE: 5.88, R^2: 0.37
+

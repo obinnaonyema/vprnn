@@ -1,0 +1,18 @@
+ STATION 168 - return
+---------------
+
+| TRAIN |  RMSE: 5.44, MAE: 3.56, R^2: 0.67
+
+| VALIDATION |  RMSE: 6.15, MAE: 4.01, R^2: 0.71
+
+| TEST |  RMSE: 4.64, MAE: 2.98, R^2: 0.61
+
+ STATION 168 - pickup
+---------------
+
+| TRAIN |  RMSE: 5.20, MAE: 3.30, R^2: 0.72
+
+| VALIDATION |  RMSE: 5.70, MAE: 3.72, R^2: 0.74
+
+| TEST |  RMSE: 4.25, MAE: 2.79, R^2: 0.68
+

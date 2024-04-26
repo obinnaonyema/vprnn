@@ -1,0 +1,18 @@
+ STATION 446 - return
+---------------
+
+| TRAIN |  RMSE: 5.49, MAE: 3.86, R^2: 0.46
+
+| VALIDATION |  RMSE: 5.85, MAE: 4.08, R^2: 0.50
+
+| TEST |  RMSE: 5.02, MAE: 3.61, R^2: 0.31
+
+ STATION 446 - pickup
+---------------
+
+| TRAIN |  RMSE: 5.86, MAE: 3.98, R^2: 0.43
+
+| VALIDATION |  RMSE: 6.47, MAE: 4.32, R^2: 0.45
+
+| TEST |  RMSE: 5.30, MAE: 3.76, R^2: 0.23
+

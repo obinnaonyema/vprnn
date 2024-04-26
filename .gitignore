@@ -91,6 +91,8 @@ docs/_build/
 target/
 
 # Jupyter Notebook
+other_models.ipynb
+vprnn.ipynb
 
 # IPython
 

@@ -1,0 +1,18 @@
+ STATION 151 - return
+---------------
+
+| TRAIN |  RMSE: 6.83, MAE: 4.67, R^2: 0.39
+
+| VALIDATION |  RMSE: 7.16, MAE: 4.84, R^2: 0.47
+
+| TEST |  RMSE: 5.74, MAE: 4.17, R^2: 0.30
+
+ STATION 151 - pickup
+---------------
+
+| TRAIN |  RMSE: 6.84, MAE: 4.57, R^2: 0.43
+
+| VALIDATION |  RMSE: 7.17, MAE: 4.82, R^2: 0.50
+
+| TEST |  RMSE: 5.60, MAE: 4.01, R^2: 0.31
+

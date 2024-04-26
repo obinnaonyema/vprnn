@@ -1,0 +1,18 @@
+ STATION 128 - return
+---------------
+
+| TRAIN |  RMSE: 4.43, MAE: 2.99, R^2: 0.72
+
+| VALIDATION |  RMSE: 5.00, MAE: 3.38, R^2: 0.73
+
+| TEST |  RMSE: 4.01, MAE: 2.66, R^2: 0.60
+
+ STATION 128 - pickup
+---------------
+
+| TRAIN |  RMSE: 5.07, MAE: 3.19, R^2: 0.59
+
+| VALIDATION |  RMSE: 6.16, MAE: 3.83, R^2: 0.54
+
+| TEST |  RMSE: 3.62, MAE: 2.46, R^2: 0.58
+
