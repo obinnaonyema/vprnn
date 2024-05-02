@@ -1,0 +1,18 @@
+ STATION 359 - return
+---------------
+
+| TRAIN |  RMSE: 5.19, MAE: 2.79, R^2: 0.91
+
+| VALIDATION |  RMSE: 5.03, MAE: 2.82, R^2: 0.94
+
+| TEST |  RMSE: 4.93, MAE: 2.66, R^2: 0.91
+
+ STATION 359 - pickup
+---------------
+
+| TRAIN |  RMSE: 7.83, MAE: 3.63, R^2: 0.83
+
+| VALIDATION |  RMSE: 8.60, MAE: 4.16, R^2: 0.84
+
+| TEST |  RMSE: 7.86, MAE: 3.46, R^2: 0.65
+

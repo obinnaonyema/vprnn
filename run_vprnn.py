@@ -1,10 +1,10 @@
 """
 Executing VP-RNN
 ------
-This file orchestrates various use cases for the Variational Poisson-RNN (VP-RNN) as introduced in Section 3.2 of the paper.
+This file orchestrates various use cases for the Variational Poisson-RNN (VP-RNN) as introduced in Section 3.2 of the original paper.
 
 In particular, this script allows to (1) train the model, (2) generate predictions, and (3) compute inventory decisions using
-the queuing model described in Section 3.1 on an arbitrary number of stations.
+the queuing model described in Section 3.1 of the original paper on an arbitrary number of stations.
 """
 
 from __future__ import print_function
@@ -94,7 +94,7 @@ for station in args.stations:
                  read_and_preprocess_data(demand_path=f"data/demand_rate/{str(args.interval)}min/{str(station)}_{args.file_interval}RatesByDay_2018.csv",
                                         weather_path=f"data/raw/weather2018_{args.interval}min.csv", station_229=False, interval=args.interval)
         labels = ['return', 'pickup']
-        # If train==True, start training loop through ELBO maximization (Section 3.2)
+        # If train==True, start training loop through ELBO maximization (Section 3.2 of the original paper)
         if args.train:
             for i, label in enumerate(labels):
                 print(f"\n Training started for St. {station} ({label}), with patience={args.patience}")

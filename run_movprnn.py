@@ -1,10 +1,10 @@
 """
 Executing MOVP-RNN
 ------
-This file orchestrates various use cases for the Multi-Output Variational Poisson-RNN (MOVP-RNN) as introduced in Section 4.1 of the paper.
+This file orchestrates various use cases for the Multi-Output Variational Poisson-RNN (MOVP-RNN) as introduced in Section 4.1 of the original paper.
 
 In particular, this script allows to (1) train the model, (2) generate predictions, and (3) compute inventory decisions using
-the queuing model described in Section 3.1 on an arbitrary number of stations.
+the queuing model described in Section 3.1 of the original paper on an arbitrary number of stations.
 """
 
 from __future__ import print_function

@@ -40,6 +40,9 @@ data arguments:
     --stations       list of station IDs on which to run pipeline
     --interval       defines temporal aggregation (defaul: 60min)
 ```
+You can also run the linear regression pipeline `run_lr.py` in the same way.
+
+For example: `python run_lr.py --stations all` to train linear regression and predict results for all stations
 
 ### Training, generating demand predictions & inventory decisions
 

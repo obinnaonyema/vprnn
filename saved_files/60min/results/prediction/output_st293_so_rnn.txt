@@ -1,18 +1,18 @@
  STATION 293 - return
 ---------------
 
-| TRAIN |  RMSE: 6.31, MAE: 4.05, R^2: 0.59
+| TRAIN |  RMSE: 5.82, MAE: 3.75, R^2: 0.65
 
-| VALIDATION |  RMSE: 7.36, MAE: 5.05, R^2: 0.63
+| VALIDATION |  RMSE: 6.47, MAE: 4.45, R^2: 0.72
 
-| TEST |  RMSE: 5.37, MAE: 3.71, R^2: 0.60
+| TEST |  RMSE: 5.06, MAE: 3.52, R^2: 0.64
 
  STATION 293 - pickup
 ---------------
 
-| TRAIN |  RMSE: 6.53, MAE: 4.04, R^2: 0.58
+| TRAIN |  RMSE: 5.98, MAE: 3.72, R^2: 0.65
 
-| VALIDATION |  RMSE: 8.14, MAE: 5.26, R^2: 0.60
+| VALIDATION |  RMSE: 7.17, MAE: 4.65, R^2: 0.69
 
-| TEST |  RMSE: 5.12, MAE: 3.52, R^2: 0.61
+| TEST |  RMSE: 4.86, MAE: 3.36, R^2: 0.65
 

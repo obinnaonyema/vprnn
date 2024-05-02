@@ -1,0 +1,18 @@
+ STATION 368 - return
+---------------
+
+| TRAIN |  RMSE: 5.25, MAE: 3.46, R^2: 0.69
+
+| VALIDATION |  RMSE: 6.45, MAE: 4.34, R^2: 0.66
+
+| TEST |  RMSE: 4.18, MAE: 2.86, R^2: 0.63
+
+ STATION 368 - pickup
+---------------
+
+| TRAIN |  RMSE: 5.06, MAE: 3.62, R^2: 0.66
+
+| VALIDATION |  RMSE: 5.81, MAE: 4.27, R^2: 0.67
+
+| TEST |  RMSE: 4.35, MAE: 3.11, R^2: 0.54
+
